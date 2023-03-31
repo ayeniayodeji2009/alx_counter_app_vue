@@ -7,4 +7,4 @@
 
 
 
-Hosted link -> https://alt-school-frontend-3nd-semester-exam-project-vue-js.vercel.app/
+Hosted link -> https://alx-counter-app-vue.vercel.app/
